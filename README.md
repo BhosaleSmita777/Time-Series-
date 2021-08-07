@@ -1,4 +1,4 @@
-# Time-Series-
+# Time-Series
 
 
 checking graphs of Trends, seasonal and residuals 
